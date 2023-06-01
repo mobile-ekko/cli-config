@@ -1,0 +1,4 @@
+{
+  "login": "https://raw.githubusercontent.com/mobile-ekko/cli-config/main/login.json",
+  "refresh_token": "https://raw.githubusercontent.com/mobile-ekko/cli-config/main/refresh_token.json"
+}
