@@ -1,5 +1,5 @@
 {
   "login": "https://raw.githubusercontent.com/mobile-ekko/cli-config/main/login.json",
   "refresh_token": "https://raw.githubusercontent.com/mobile-ekko/cli-config/main/refresh_token.json",
-  "support_package: "https://raw.githubusercontent.com/mobile-ekko/cli-config/main/support_package.json"
+  "support_package": "https://raw.githubusercontent.com/mobile-ekko/cli-config/main/support_package.json"
 }
