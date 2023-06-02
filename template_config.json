@@ -1,0 +1,9 @@
+{
+  "id": "id",
+  "name": "user_name",
+  "token": "token_cli",
+  "npm_name": "npm_name",
+  "npm_token": "token_npm",
+  "template_version": "0.0.4",
+  "template_link": "link_template"
+}
