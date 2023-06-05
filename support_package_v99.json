@@ -1,0 +1,5 @@
+{
+  "app-v99-common": "git+https://nevel-charles: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@github.com/nevel-group/app-v99-common.git#0.2.6",
+  "react-native-v99-component-kit": "https://4tek-joker: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@github.com/4tek-group/v99_component_kit.git#0.1.0",
+  "react-native-v99-sdk": "git+https://nevel-charles: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@github.com/nevel-group/app-v99-sdk.git#0.2.7"
+}
