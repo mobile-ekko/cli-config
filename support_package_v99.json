@@ -1,5 +1,1 @@
-{
-  "app-v99-common": "git+https://nevel-charles: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@github.com/nevel-group/app-v99-common.git#0.2.6",
-  "react-native-v99-component-kit": "https://4tek-joker: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@github.com/4tek-group/v99_component_kit.git#0.1.0",
-  "react-native-v99-sdk": "git+https://nevel-charles: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@github.com/nevel-group/app-v99-sdk.git#0.2.7"
-}
+ewogICJhcHAtdjk5LWNvbW1vbiI6ICJnaXQraHR0cHM6Ly9uZXZlbC1jaGFybGVzOmdocF9MdXFPMFVoWnhoZDlGQ2MwSWI5NmM1NXpyTENYbUozdkRHUWpAZ2l0aHViLmNvbS9uZXZlbC1ncm91cC9hcHAtdjk5LWNvbW1vbi5naXQjMC4yLjYiLAogICJyZWFjdC1uYXRpdmUtdjk5LWNvbXBvbmVudC1raXQiOiAiaHR0cHM6Ly80dGVrLWpva2VyOmdocF9IMHBkdlIzMUptNGEzZ3o5aDBpMEo4dGFYYkQ2TTkyQkxidEhAZ2l0aHViLmNvbS80dGVrLWdyb3VwL3Y5OV9jb21wb25lbnRfa2l0LmdpdCMwLjEuMCIsCiAgInJlYWN0LW5hdGl2ZS12OTktc2RrIjogImdpdCtodHRwczovL25ldmVsLWNoYXJsZXM6Z2hwX0x1cU8wVWhaeGhkOUZDYzBJYjk2YzU1enJMQ1htSjN2REdRakBnaXRodWIuY29tL25ldmVsLWdyb3VwL2FwcC12OTktc2RrLmdpdCMwLjIuNyIKfQ==
